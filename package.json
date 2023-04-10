@@ -1,0 +1,11 @@
+{
+  "name": "r01-introductiontotest",
+  "version": "1.0.0",
+  "description": "Introduction to testing for refactoring",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vinícius Hipólito",
+  "license": "ISC"
+}
